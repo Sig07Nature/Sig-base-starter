@@ -1,5 +1,4 @@
-# Sig-base-starter
-name: sig-base-starter
+
  job: import base code and export built code to sig-base
 
  run: start next build
