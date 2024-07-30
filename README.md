@@ -6,8 +6,7 @@ name: sig-bas
     <html>buildnewheader</html>
      
      <h2>build newheader(HTML)<h2>
-     <h3>attach-body-to new header</h3>
-https://github.com/Sig07Nature/Sig-base-starter.wiki.git
+     <h3>attach-body-to
 *sync content
 *resync content
 *turbo.build: filter build website
